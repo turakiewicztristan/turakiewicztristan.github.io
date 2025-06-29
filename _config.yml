@@ -28,7 +28,7 @@ plugins:
 
 author:
   name: "Tristan turakiewicz"
-  avatar: "/assets/images/bio-photo.jpg"   # Tu peux changer ou enlever si tu veux
+  avatar: "/assets/images/cv_photo.jpg"   # Tu peux changer ou enlever si tu veux
   bio: "Data scientist expert in predictive modeling, BI, and data pipelines."
   links:
     - label: "LinkedIn"
