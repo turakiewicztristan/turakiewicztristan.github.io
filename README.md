@@ -1,27 +1,33 @@
-# Minimal Mistakes remote theme starter
+# Tristan Turakiewicz — Data Portfolio
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Welcome to my personal data portfolio website built with the Minimal Mistakes Jekyll theme. This site showcases my skills, projects, and experiences in **data analysis**, **business intelligence (BI)**, and **data engineering**.
 
-Contains basic configuration to get you a site with:
+## About this site
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+This portfolio includes:
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+- An overview of my professional background and expertise.
+- Selected projects demonstrating data analysis, visualization, and predictive modeling.
+- A blog with insights and learnings about data science and BI.
+- Links to my LinkedIn profile and downloadable CV.
+- A clean, responsive design powered by the Minimal Mistakes Jekyll theme.
+- Search functionality and categorized archives for easy navigation.
+
+## Getting Started
+
+Feel free to browse through my work, read blog posts, and explore the technical skills I’ve developed. This site is continuously updated as I grow in the data field and take on new challenges.
 
 ---
 
-## Troubleshooting
+## Troubleshooting & Resources
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+If you’re interested in how this site is built or want to create your own Jekyll portfolio, here are some useful resources:
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+- [Jekyll Documentation](https://jekyllrb.com/docs/)
+- [Minimal Mistakes Theme Documentation](https://mmistakes.github.io/minimal-mistakes/)
+- [Jekyll Forum](https://talk.jekyllrb.com/)
+- [StackOverflow: jekyll tag](https://stackoverflow.com/questions/tagged/jekyll)
+
+---
+
+Feel free to reach out via LinkedIn or by downloading my CV from the site. Thanks for visiting!
