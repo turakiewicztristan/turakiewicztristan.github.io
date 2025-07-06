@@ -2,7 +2,7 @@
 title: "Tristan Turakiewicz Data Professional | Data Science, BI & Engineering"
 email: "turakiewicz.tristan06@email.com"  # Mets ton email (optionnel)
 description: >-
-  Passionate about predictive modeling, data analysis, BI dashboards, and data engineering.
+  Enthusiastic about leveraging data through predictive modeling, advanced data analysis, business intelligence dashboards, and data engineering to drive impactful business solutions and continuous improvement.
 github_username: turakiewicztristan
 minimal_mistakes_skin: default
 search: true
@@ -29,7 +29,7 @@ plugins:
 author:
   name: "Tristan turakiewicz"
   avatar: "/assets/images/cv_photo.jpg"   # Tu peux changer ou enlever si tu veux
-  bio: "Data scientist expert in predictive modeling, BI, and data pipelines."
+  bio: "Data Analyst and aspiring Data Scientist with strong skills in data analysis, visualization, and statistical modeling. Passionate about transforming data into actionable insights to support business decisions. Actively seeking opportunities to contribute to data-driven projects and grow in the field of data science."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
