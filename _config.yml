@@ -35,7 +35,7 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tristanturakiewicz"
-    - label: "My CV"
+    - label: "My Resume"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/images/cv_tristan_turakiewicz.pdf"
 
@@ -44,7 +44,7 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tristanturakiewicz"
-    - label: "My CV"
+    - label: "My Resume"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/images/cv_tristan_turakiewicz.pdf"
 
