@@ -30,7 +30,9 @@ plugins:
 author:
   name: "Tristan Turakiewicz"
   avatar: "/assets/images/cv_photo.jpg"   # Tu peux changer ou enlever si tu veux
-  bio: "Data Analyst and aspiring Data Scientist with strong skills in data analysis, visualization, and statistical modeling. Passionate about transforming data into actionable insights to support business decisions. Actively seeking opportunities to contribute to data-driven projects and grow in the field of data science."
+  bio: "Data enthusiast with strong skills in analytics, statistics, machine learning, and data manipulation. Trained in tools and languages such as Python, SQL, Pandas, and Scikit-learn, I’m comfortable exploring, analyzing, and drawing insights from data to support a wide range of data-driven initiatives.
+
+Open to various roles across the data domain — from analysis and data science to business intelligence or even light data engineering — I’m eager to contribute to impactful projects and continue learning in a dynamic, data-focused environment."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
