@@ -2,7 +2,6 @@
 permalink: /about/
 title: "About"
 ---
+I'm a data-driven engineering graduate with strong skills in data analysis, statistics, and machine learning. I enjoy transforming raw data into clear insights through tools like Python, SQL, Power BI, and DBT.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Motivated, curious, and eager to keep learning, I'm open to all opportunities in the data field — from analytics and BI to data science or engineering — regardless of location or industry. I value impact, growth, and continuous improvement.
