@@ -1,24 +1,24 @@
 ---
-title: "Dashboard Power BI : Analyse des Jeux Olympiques"
+title: "Olympic Games Dashboard – Power BI Project"
 date: 2025-07-06
 ---
 
-Depuis tout petit, je suis passionné par le sport. Cette passion m’a naturellement amené à m'intéresser de près aux **sports olympiques**, qui rassemblent performance, diversité et histoire.
+I've always been passionate about sports. As a long-time fencing enthusiast, I've developed a strong interest in Olympic sports and the stories behind the numbers — the medals, the countries, the athletes.
 
-Je pratique moi-même **l’escrime**, un sport exigeant que j’ai commencé il y a plusieurs années. Cela m’a donné envie d’explorer plus en profondeur les données liées aux Jeux Olympiques.
+To combine this passion with my data skills, I created an interactive **Power BI dashboard** focused on the **Olympic Games**. The goal was to build a clear and engaging way to explore performance across nations, sports, and time.
 
-C’est dans cette optique que j’ai créé un **dashboard interactif sous Power BI**, permettant d’explorer différentes dimensions des Jeux Olympiques : répartition des médailles par pays, évolution dans le temps, focus par discipline, etc.
+![Olympic Games Dashboard – Power BI](/assets/images/rapport_portfolio.png)
 
-![Dashboard Power BI sur les Jeux Olympiques](/assets/images/rapport_portfolio.png)
+### 🔍 Project Overview
 
-Ce projet m’a permis de :
+- Cleaned and transformed a historical dataset on Olympic results.
+- Designed **dynamic visualizations** to explore medals by country, year, and discipline.
+- Highlighted key indicators such as **total medal count**, top-performing countries, and trends across editions.
 
-- **Nettoyer et structurer un dataset complexe**, contenant plusieurs éditions des JO,
-- Créer des **visualisations dynamiques** facilitant l’exploration des performances par pays, athlètes ou disciplines,
-- Mettre en pratique mes compétences en **Power BI, storytelling visuel et analyse de données sportives**.
-
-👉 Un projet à la croisée de mes compétences en data et de ma passion pour le sport.
+This project allowed me to apply my skills in **data storytelling, dashboard design, and visual clarity**, while reflecting my personal interest in the Olympic movement. It’s a great example of how data can bring global events to life and help uncover meaningful insights.
 
 ---
 
-*Technologies : Power BI, DAX, Data Cleaning (Excel & Power Query)*
+**🛠 Tools Used:** Power BI, DAX, Power Query, Excel  
+**📊 Dataset:** Historical Olympic Games data (athletes, countries, sports, medal counts, editions)
+
