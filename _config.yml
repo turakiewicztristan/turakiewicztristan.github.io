@@ -30,8 +30,9 @@ plugins:
 author:
   name: "Tristan Turakiewicz"
   avatar: "/assets/images/cv_photo.jpg"   # Tu peux changer ou enlever si tu veux
-  bio: "Data enthusiast skilled in analytics, statistics, and machine learning, with hands-on experience in Python, SQL, and Scikit-learn.
-Open to roles in data analysis, BI, data science, or light data engineering."
+  bio: "Data enthusiast skilled in analytics, statistics, and machine learning, with hands-on experience in Python, SQL, DBT, Scikit-learn, etc.
+Comfortable turning raw data into insights to support data-driven decisions.
+Open to roles in data analysis, BI, data science, or data engineering."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
