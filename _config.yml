@@ -37,9 +37,12 @@ Open to various roles across the data domain — from analysis and data science 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tristanturakiewicz"
-    - label: "My Resume"
+    - label: "French Resume"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/images/cv_tristan_turakiewicz.pdf"
+    - label: "English Resume"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/images/cv_tristan_turakiewicz_ENG.pdf"
 
 footer:
   links:
