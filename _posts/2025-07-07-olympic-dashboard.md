@@ -9,7 +9,7 @@ Je pratique moi-même **l’escrime**, un sport exigeant que j’ai commencé il
 
 C’est dans cette optique que j’ai créé un **dashboard interactif sous Power BI**, permettant d’explorer différentes dimensions des Jeux Olympiques : répartition des médailles par pays, évolution dans le temps, focus par discipline, etc.
 
-![Dashboard Power BI sur les Jeux Olympiques](/assets/images/rappport_olympic_games.png)
+![Dashboard Power BI sur les Jeux Olympiques](/assets/images/rapport_portfolio.png)
 
 Ce projet m’a permis de :
 
