@@ -105,6 +105,7 @@ with DAG(
 
 
 
+```mermaid
 flowchart LR
     A[Power BI API] --> B[Airflow DAG]
     B --> C[GCS<br>(partitioned by date)]
