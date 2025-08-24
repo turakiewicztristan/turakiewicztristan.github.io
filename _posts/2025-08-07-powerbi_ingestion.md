@@ -51,8 +51,6 @@ To achieve this, I built an automated pipeline that:
 
 ---
 
----
-
 ```mermaid
 flowchart LR
     A[Power BI API] --> B[Airflow DAG]
