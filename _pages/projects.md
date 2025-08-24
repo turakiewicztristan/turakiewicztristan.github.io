@@ -12,9 +12,9 @@ Developed a predictive model using Python and machine learning techniques to red
 
 ## Power BI Dashboard  
 Designed and implemented interactive dashboards consolidating KPIs across departments.  
-**Technologies:** Power BI, DAX, Data Modeling
+**Technologies:** Power BI, DAX, Data Modeling, PowerApps
 
 ## Data Ingestion API  
 Built APIs to automate and streamline data ingestion processes from various sources.  
-**Technologies:** Python, REST APIs, JSON
+**Technologies:** Python, REST APIs, JSON, Airflow, BigQuery
 
