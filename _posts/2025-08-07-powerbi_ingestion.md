@@ -102,7 +102,7 @@ with DAG(
     )
 
     extract >> load_to_bq
-
+```
 
 
 ```mermaid
