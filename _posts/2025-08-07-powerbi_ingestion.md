@@ -1,3 +1,16 @@
+---
+title: "Ingestion PowerBI"
+date: 2025-08-07
+last_modified_at: 2025-08-07
+categories:
+  - Projects
+tags:
+  - Airflow
+  - PowerBI
+  - Data Engineering
+  - Ingestion
+---
+
 # 📊 Ingesting Power BI Metrics with Airflow, GCS, and BigQuery
 
 ## 🎯 Context
