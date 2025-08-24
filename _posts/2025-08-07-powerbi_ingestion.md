@@ -51,6 +51,16 @@ To achieve this, I built an automated pipeline that:
 
 ---
 
+---
+
+```mermaid
+flowchart LR
+    A[Power BI API] --> B[Airflow DAG]
+    B --> C["GCS (partitioned by date)"]
+    C --> D["BigQuery (partitioned tables)"]
+    D --> E[Analysis / Dashboards]
+```
+
 ## 📂 Example Airflow DAG
 
 ⚠️ Sensitive variables (tokens, project IDs, bucket names) are replaced with **placeholders** (`<PROJECT_ID>`, `<DATASET>`, `<TABLE>`, `<ACCESS_TOKEN>`).
@@ -103,12 +113,4 @@ with DAG(
 
     extract >> load_to_bq
 ```
----
 
-```mermaid
-flowchart LR
-    A[Power BI API] --> B[Airflow DAG]
-    B --> C["GCS (partitioned by date)"]
-    C --> D["BigQuery (partitioned tables)"]
-    D --> E[Analysis / Dashboards]
-```
