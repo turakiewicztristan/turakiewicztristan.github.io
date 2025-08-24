@@ -104,10 +104,10 @@ with DAG(
     extract >> load_to_bq
 ```
 
-
 ```mermaid
 flowchart LR
     A[Power BI API] --> B[Airflow DAG]
-    B --> C[GCS<br>(partitioned by date)]
-    C --> D[BigQuery<br>(partitioned tables)]
+    B --> C[GCS (partitioned by date)]
+    C --> D[BigQuery (partitioned tables)]
     D --> E[Analysis / Dashboards]
+```
